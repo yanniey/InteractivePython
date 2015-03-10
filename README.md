@@ -2,11 +2,13 @@
 ## by Rice University on Coursera
 
 
+### 3/10/2015
+#### Finish Mini Project 2 Guess the number
 
-### 02/28/2015 
+### 2/28/2015 
 #### Finish Mini Project 1 Rock-paper-scissors-lizard-spock
 
 
-### 02/23/2015 
+### 2/23/2015 
 #### Finish Quiz 1 
 
