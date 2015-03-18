@@ -1,6 +1,8 @@
 # An Introduction to Interactive Programming in Python (Part 1) 
 ## by Rice University on Coursera
 
+### 3/18/2015
+#### Finish Mini Project 3 Stop Watch
 
 ### 3/10/2015
 #### Finish Mini Project 2 Guess the number
